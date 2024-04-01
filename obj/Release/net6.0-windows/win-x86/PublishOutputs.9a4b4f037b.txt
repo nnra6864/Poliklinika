@@ -1,0 +1,37 @@
+D:\Work\Programming\Programs\School\Poliklinika\Poliklinika.pdb
+D:\Work\Programming\Programs\School\Poliklinika\Art\Angazovanje Outline.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Angazovanje.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Button.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Calendar Dark.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Calendar Light.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Cogwheel.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\DB Connect.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Exit Button 100x100.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Exit Button Outlines 100x100.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Exit Button.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\HomeButton.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\HomeButtonOutlines.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Logo 400x400.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Logo-400x400.gif
+D:\Work\Programming\Programs\School\Poliklinika\Art\Logo.gif
+D:\Work\Programming\Programs\School\Poliklinika\Art\Logo.ico
+D:\Work\Programming\Programs\School\Poliklinika\Art\Logo.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Minimize Button 100x100.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Minimize Button Outline 100x100.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Minimize Button.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Opcije small.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Opcije.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Settings\Clear Login.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Settings\Dark Mode.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Settings\Database.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Settings\Light Mode.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\Statistika.png
+D:\Work\Programming\Programs\School\Poliklinika\Art\TextBox.png
+D:\Work\Programming\Programs\School\Poliklinika\D3DCompiler_47_cor3.dll
+D:\Work\Programming\Programs\School\Poliklinika\PenImc_cor3.dll
+D:\Work\Programming\Programs\School\Poliklinika\PresentationNative_cor3.dll
+D:\Work\Programming\Programs\School\Poliklinika\vcruntime140_cor3.dll
+D:\Work\Programming\Programs\School\Poliklinika\wpfgfx_cor3.dll
+D:\Work\Programming\Programs\School\Poliklinika\sni.dll
+D:\Work\Programming\Programs\School\Poliklinika\libSkiaSharp.dll
+D:\Work\Programming\Programs\School\Poliklinika\Poliklinika.exe

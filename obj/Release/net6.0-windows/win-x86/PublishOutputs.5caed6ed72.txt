@@ -1,0 +1,43 @@
+C:\Users\Win10\Desktop\PKUPDT\Poliklinika.pdb
+C:\Users\Win10\Desktop\PKUPDT\Art\Angazovanje Outline.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Angazovanje.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Button.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Calendar Dark.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Calendar Light.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Cogwheel.png
+C:\Users\Win10\Desktop\PKUPDT\Art\DB Connect.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Exit Button 100x100.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Exit Button Outlines 100x100.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Exit Button.png
+C:\Users\Win10\Desktop\PKUPDT\Art\HomeButton.png
+C:\Users\Win10\Desktop\PKUPDT\Art\HomeButtonOutlines.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Logo 400x400.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Logo-400x400.gif
+C:\Users\Win10\Desktop\PKUPDT\Art\Logo.gif
+C:\Users\Win10\Desktop\PKUPDT\Art\Logo.ico
+C:\Users\Win10\Desktop\PKUPDT\Art\Logo.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Minimize Button 100x100.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Minimize Button Outline 100x100.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Minimize Button.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Opcije small.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Opcije.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Settings\Clear Login.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Settings\Dark Mode.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Settings\Database.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Settings\Light Mode.png
+C:\Users\Win10\Desktop\PKUPDT\Art\Statistika.png
+C:\Users\Win10\Desktop\PKUPDT\Art\TextBox.png
+C:\Users\Win10\Desktop\PKUPDT\Sites\Images\Logo 800x800.png
+C:\Users\Win10\Desktop\PKUPDT\Sites\Images\Poliklinika-800x800.gif
+C:\Users\Win10\Desktop\PKUPDT\Sites\Images\Uputstvo\ConnectDB.png
+C:\Users\Win10\Desktop\PKUPDT\Sites\Index.css
+C:\Users\Win10\Desktop\PKUPDT\Sites\Index.html
+C:\Users\Win10\Desktop\PKUPDT\Sites\Index.js
+C:\Users\Win10\Desktop\PKUPDT\D3DCompiler_47_cor3.dll
+C:\Users\Win10\Desktop\PKUPDT\PenImc_cor3.dll
+C:\Users\Win10\Desktop\PKUPDT\PresentationNative_cor3.dll
+C:\Users\Win10\Desktop\PKUPDT\vcruntime140_cor3.dll
+C:\Users\Win10\Desktop\PKUPDT\wpfgfx_cor3.dll
+C:\Users\Win10\Desktop\PKUPDT\sni.dll
+C:\Users\Win10\Desktop\PKUPDT\libSkiaSharp.dll
+C:\Users\Win10\Desktop\PKUPDT\Poliklinika.exe

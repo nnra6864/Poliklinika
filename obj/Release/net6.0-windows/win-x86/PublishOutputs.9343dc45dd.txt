@@ -1,0 +1,43 @@
+C:\Users\Win10\Desktop\kurcina\Poliklinika.pdb
+C:\Users\Win10\Desktop\kurcina\Art\Angazovanje Outline.png
+C:\Users\Win10\Desktop\kurcina\Art\Angazovanje.png
+C:\Users\Win10\Desktop\kurcina\Art\Button.png
+C:\Users\Win10\Desktop\kurcina\Art\Calendar Dark.png
+C:\Users\Win10\Desktop\kurcina\Art\Calendar Light.png
+C:\Users\Win10\Desktop\kurcina\Art\Cogwheel.png
+C:\Users\Win10\Desktop\kurcina\Art\DB Connect.png
+C:\Users\Win10\Desktop\kurcina\Art\Exit Button 100x100.png
+C:\Users\Win10\Desktop\kurcina\Art\Exit Button Outlines 100x100.png
+C:\Users\Win10\Desktop\kurcina\Art\Exit Button.png
+C:\Users\Win10\Desktop\kurcina\Art\HomeButton.png
+C:\Users\Win10\Desktop\kurcina\Art\HomeButtonOutlines.png
+C:\Users\Win10\Desktop\kurcina\Art\Logo 400x400.png
+C:\Users\Win10\Desktop\kurcina\Art\Logo-400x400.gif
+C:\Users\Win10\Desktop\kurcina\Art\Logo.gif
+C:\Users\Win10\Desktop\kurcina\Art\Logo.ico
+C:\Users\Win10\Desktop\kurcina\Art\Logo.png
+C:\Users\Win10\Desktop\kurcina\Art\Minimize Button 100x100.png
+C:\Users\Win10\Desktop\kurcina\Art\Minimize Button Outline 100x100.png
+C:\Users\Win10\Desktop\kurcina\Art\Minimize Button.png
+C:\Users\Win10\Desktop\kurcina\Art\Opcije small.png
+C:\Users\Win10\Desktop\kurcina\Art\Opcije.png
+C:\Users\Win10\Desktop\kurcina\Art\Settings\Clear Login.png
+C:\Users\Win10\Desktop\kurcina\Art\Settings\Dark Mode.png
+C:\Users\Win10\Desktop\kurcina\Art\Settings\Database.png
+C:\Users\Win10\Desktop\kurcina\Art\Settings\Light Mode.png
+C:\Users\Win10\Desktop\kurcina\Art\Statistika.png
+C:\Users\Win10\Desktop\kurcina\Art\TextBox.png
+C:\Users\Win10\Desktop\kurcina\Sites\Images\Logo 800x800.png
+C:\Users\Win10\Desktop\kurcina\Sites\Images\Poliklinika-800x800.gif
+C:\Users\Win10\Desktop\kurcina\Sites\Images\Uputstvo\ConnectDB.png
+C:\Users\Win10\Desktop\kurcina\Sites\Index.css
+C:\Users\Win10\Desktop\kurcina\Sites\Index.html
+C:\Users\Win10\Desktop\kurcina\Sites\Index.js
+C:\Users\Win10\Desktop\kurcina\D3DCompiler_47_cor3.dll
+C:\Users\Win10\Desktop\kurcina\PenImc_cor3.dll
+C:\Users\Win10\Desktop\kurcina\PresentationNative_cor3.dll
+C:\Users\Win10\Desktop\kurcina\vcruntime140_cor3.dll
+C:\Users\Win10\Desktop\kurcina\wpfgfx_cor3.dll
+C:\Users\Win10\Desktop\kurcina\sni.dll
+C:\Users\Win10\Desktop\kurcina\libSkiaSharp.dll
+C:\Users\Win10\Desktop\kurcina\Poliklinika.exe

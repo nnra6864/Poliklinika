@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Work\Programming\C#\School\Poliklinika\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Classes\NnraScripts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConnectToDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\AngazovanjeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\OpcijeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SubForms\StatistikaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

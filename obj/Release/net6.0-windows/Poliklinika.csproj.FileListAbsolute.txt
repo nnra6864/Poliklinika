@@ -1,0 +1,72 @@
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Poliklinika.exe
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Poliklinika.deps.json
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Poliklinika.runtimeconfig.json
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Poliklinika.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Poliklinika.pdb
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.csproj.AssemblyReference.cache
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.Properties.Resources.resources
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.csproj.GenerateResource.cache
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.AssemblyInfoInputs.cache
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.AssemblyInfo.cs
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.csproj.CoreCompileInputs.cache
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.csproj.CopyComplete
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.dll
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\refint\Poliklinika.dll
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.pdb
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.genruntimeconfig.cache
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\ref\Poliklinika.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Settings\Dark Mode.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Settings\Light Mode.png
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.ConnectToDatabaseForm.resources
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.Forms.MainForm.resources
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.AngazovanjeForm.resources
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.Forms.SubForms.HomeForm.resources
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.Forms.SubForms.OpcijeForm.resources
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.Forms.SubForms.StatistikaForm.resources
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Angazovanje Outline.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Angazovanje.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Button.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Calendar Dark.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Calendar Light.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Cogwheel.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\DB Connect.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Exit Button 100x100.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Exit Button Outlines 100x100.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Exit Button.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\HomeButton.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\HomeButtonOutlines.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Logo 400x400.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Logo-400x400.gif
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Logo.gif
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Logo.ico
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Logo.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Minimize Button 100x100.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Minimize Button Outline 100x100.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Minimize Button.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Opcije small.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Opcije.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Settings\Clear Login.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Settings\Database.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\Statistika.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\Art\TextBox.png
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\LiveChartsCore.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\LiveChartsCore.SkiaSharpView.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\LiveChartsCore.SkiaSharpView.WinForms.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\NnraTools.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\OpenTK.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\OpenTK.GLControl.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\SkiaSharp.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\SkiaSharp.Views.Desktop.Common.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\SkiaSharp.Views.WindowsForms.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Work\Programming\C#\School\Poliklinika\bin\Release\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Work\Programming\C#\School\Poliklinika\obj\Release\net6.0-windows\Poliklinika.Classes.NnraScripts.resources
